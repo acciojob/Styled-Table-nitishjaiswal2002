@@ -1,1 +1,8 @@
 /* your code */
+tr:nth-child(even){
+	background-color:#D6EEEE;
+}
+
+#tablehead{
+	background-color:cornflowerblue;
+}
